@@ -127,6 +127,11 @@ const API_SITES = {
         name: 'CK资源',
         adult: true
     },
+    dplayer: {
+        api: 'https://www.jingpinx.com/api.php/provide/vod',
+        name: '精品x资源',
+        adult: true
+    },
     jkun: {
         api: 'https://jkunzyapi.com',
         name: 'jkun资源',
